@@ -1,0 +1,42 @@
+{
+    "name": "Ronnie Coleman NFT",
+    "symbol": "LWB",
+    "description": "Shout out LIGHT WEIGHT BABY~",
+    "seller_fee_basis_points": 420,
+    "external_url": "",
+    "edition": "#1",
+    "background_color": "000000",
+    "attributes": [
+    {
+    "display_type": "number",
+    "trait_type": "Squat",
+    "value": 363
+    },
+    {
+    "display_type": "number",
+    "trait_type": "Bench",
+    "value": 225
+    },
+    {
+    "display_type": "number",
+    "trait_type": "Deadlift",
+    "value": 362
+    }
+    ],
+    "properties": {
+    "category": "image",
+    "creators": [
+    {
+    "address": "9BKWqDHfHZh9j39xakYVMdr6hXmCLHH5VfCpeq2idU9L",
+    "share": 100
+    }
+    ],
+    "files": [
+    {
+    "uri": "https://pics.me.me/yeah-buddy-light-weight-quickmeme-com-yeah-buddy-light-weight-48775223.png",
+    "type": "image/png"
+    }
+    ]
+    },
+    "image": "https://pics.me.me/yeah-buddy-light-weight-quickmeme-com-yeah-buddy-light-weight-48775223.png"
+    }
